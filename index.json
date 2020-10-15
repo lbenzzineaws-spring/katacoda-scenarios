@@ -4,6 +4,7 @@
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
+    "private": "true",
     "steps": [
       {
         "title": "Step 1",
@@ -33,6 +34,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "tensorflow"
+    "imageid": "terraform"
   }
 }
