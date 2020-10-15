@@ -4,6 +4,7 @@
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
+    "private": "true",
     "steps": [
       {
         "title": "Step 1",
